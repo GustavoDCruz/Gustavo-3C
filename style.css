@@ -1,0 +1,37 @@
+h1 {
+    font-family: "Rubik Marker Hatch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  h1 {text-align: center;
+color: navy;
+}
+  h1 {font-size: 300%;}
+  
+  h2 {
+    font-family: "Tapestry", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h3 {
+    font-family: "Tapestry", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h2 {text-align: center;}
+  h3 {text-align: center;}
+  h2 {font-size: ;}
+  body {background-color: darkslategrey;}
+  h1 {border-style: solid ;
+border-color: darkblue;
+border-width: 4px;
+}
+h1 {margin-right: 20%;
+margin-left: 20%;
+}
+h1 {padding-left: 50%;}
+.parte1 {border-style: solid ;
+    border-color: darkblue;
+    border-width: 8px;}
+    .parte1 {background-color: rgb(32, 212, 212);}
